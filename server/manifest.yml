@@ -1,0 +1,4 @@
+---
+applications:
+- name: server-config-fhernandez
+  path: target/configserver-0.0.1-SNAPSHOT.jar

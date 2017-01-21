@@ -1,0 +1,4 @@
+---
+applications:
+- name: client-config-fhernandez
+  path: build/libs/configuration-client-0.0.1-SNAPSHOT.jar
